@@ -1,6 +1,6 @@
-# _Drag and Drop API_
+# _Web App Manifest API_
 
-Exemplo de uso da tag de _File_ do HTML5.
+Exemplo de uso da tag de _Web App Manifest_ do HTML5.
 
 ![](images/screenshot.png)
 
@@ -16,13 +16,13 @@ Este trabalho foi realizado em 2019/01 para a disciplina de Programação para W
 
 Autores:
 
-1. Larissa de Cássia Nazaré Bicalho ()
+1. Larissa de Cássia Nazaré Bicalho (201512040304)
 2. Vinicius Henrique Silveira (201422040046)
 
 Atribuições:
 
-- Materialize [Site][Materialize-site]
-- MDN Canvas Doc [Link][mdn-link]
+- MDN Web App Manifest Doc [Link][mdn-link]
 
 [slides]: https://drive.google.com/open?id=1Rgj1jiePudbVQtuaz9k7twZlx4Wl0KS9leQtBIns5lc
-[vivo]:https://silveiravinicius.github.io/cefet-web-webplot-file/
+[vivo]:https://silveiravinicius.github.io/cefet-web-weblot-web-app-manifest/
+[mdn-link]:https://developer.mozilla.org/en-US/docs/Web/Manifest
