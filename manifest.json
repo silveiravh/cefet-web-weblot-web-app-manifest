@@ -29,6 +29,5 @@
   "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_image": "url(\"mario.jpg\")",
   "theme_color": "white"
 }
